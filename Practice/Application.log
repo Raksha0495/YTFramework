@@ -1,0 +1,48 @@
+2023-12-16 21:52:15  [TC1] (main:) Login completed successfully
+2023-12-16 21:53:17  [TC1] (main:) Login completed successfully
+2023-12-16 21:57:54  [TC1] (main:) Login completed successfully
+2023-12-16 21:57:55  [TC1] (main:) Screenshot taken successfully
+2023-12-16 21:58:03  [TC1] (main:) Trending Button clicked successfully
+2023-12-16 21:58:03  [TC1] (main:) Screenshot of trendinglick taken successfully
+2023-12-16 21:58:13  [TC1] (main:) Logged Out Successfully
+2023-12-16 22:00:25  [TC1] (main:) Login completed successfully
+2023-12-16 22:00:25  [TC1] (main:) Screenshot of Login taken successfully
+2023-12-16 22:00:33  [TC1] (main:) Trending Button clicked successfully
+2023-12-16 22:00:34  [TC1] (main:) Screenshot of trendinglick taken successfully
+2023-12-16 22:00:44  [TC1] (main:) Logged Out Successfully
+2023-12-16 22:01:56  [TC1] (main:) TC 1 Login completed successfully
+2023-12-16 22:01:57  [TC1] (main:) Screenshot of Login taken successfully
+2023-12-16 22:02:05  [TC1] (main:) Trending Button clicked successfully
+2023-12-16 22:02:06  [TC1] (main:) Screenshot of trendinglick taken successfully
+2023-12-16 22:02:17  [TC1] (main:) Logged Out Successfully
+2023-12-16 22:38:57  [TC1] (main:) TC 1 Login completed successfully
+2023-12-16 22:41:03  [TC1] (main:) TC 1 Login completed successfully
+2023-12-16 22:41:04  [TC1] (main:) Screenshot of Login taken successfully
+2023-12-16 22:41:12  [TC1] (main:) Trending Button clicked successfully
+2023-12-16 22:41:12  [TC1] (main:) Screenshot of trendinglick taken successfully
+2023-12-16 22:41:22  [TC1] (main:) Logged Out Successfully
+2023-12-25 16:31:04  [TC2] (main:) TC 2 Signed In successfully
+2023-12-25 16:51:18  [TC2] (main:) TC 2 Signed In successfully
+2023-12-25 16:57:47  [TC2] (main:) TC 2 Signed In successfully
+2023-12-25 16:59:55  [TC2] (main:) TC 2 Signed In successfully
+2023-12-25 17:00:06  [TC2] (main:) TC 2 History Button Clicked Successfully
+2023-12-25 17:00:15  [TC2] (main:) TC 2 Logged Out successfully
+2023-12-25 19:00:40  [TC1] (main:) TC 1 Login completed successfully
+2023-12-25 19:00:42  [TC1] (main:) Assertion has been PASSED
+2023-12-25 19:00:42  [TC1] (main:) Screenshot of Login taken successfully
+2023-12-25 19:00:51  [TC1] (main:) Trending Button clicked successfully
+2023-12-25 19:00:51  [TC1] (main:) Screenshot of trendinglick taken successfully
+2023-12-25 19:01:02  [TC1] (main:) Logged Out Successfully
+2024-01-21 19:08:27  [TC1] (main:) TC 1 Login completed successfully
+2024-01-21 19:08:27  [TC1] (main:) Assertion has been FAILED
+2024-01-21 19:08:28  [TC1] (main:) TC 1 Login completed successfully
+2024-01-21 19:08:28  [TC1] (main:) Screenshot of Login taken successfully
+2024-01-21 19:08:28  [TC1] (main:) Assertion has been FAILED
+2024-01-21 19:08:28  [TC1] (main:) Screenshot of Login taken successfully
+2024-01-21 19:10:33  [TC1] (main:) TC 1 Login completed successfully
+2024-01-21 19:10:37  [TC1] (main:) Assertion has been PASSED
+2024-01-21 19:10:38  [TC1] (main:) Screenshot of Login taken successfully
+2024-01-21 19:10:46  [TC1] (main:) Trending Button clicked successfully
+2024-01-21 19:10:47  [TC1] (main:) Screenshot of trendinglick taken successfully
+2024-01-21 19:10:57  [TC1] (main:) Logged Out Successfully
+2024-02-29 15:07:18  [TC1] (main:) TC 1 Login completed successfully
